@@ -1,0 +1,17 @@
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Tarea001.exe
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Tarea001.deps.json
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Tarea001.runtimeconfig.json
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Tarea001.dll
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Tarea001.pdb
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.csproj.AssemblyReference.cache
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.AssemblyInfoInputs.cache
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.AssemblyInfo.cs
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.csproj.CoreCompileInputs.cache
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.dll
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\refint\Tarea001.dll
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.pdb
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.genruntimeconfig.cache
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\ref\Tarea001.dll
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\bin\Debug\net7.0\Colorful.Console.dll
+C:\Users\tamay\Desktop\DesarrolloWeb\SegundoParcial\Fundamentos-.Net\Colaboraciones\Pablo-Tamayo\Tarea001-.Net\Tarea001\obj\Debug\net7.0\Tarea001.csproj.CopyComplete
